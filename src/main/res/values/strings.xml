@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yet Another Tip Calculator</string>
+    <string name="about_app">A very simple tip calculator\nThis app is my first app on the Play store.\nThe purpose of this app was to learn how to deploy :)\nCreated by Cody Huzarski (Tassit), August 2014\n Thank You</string>
+    <string name="action_about">About</string>
+    <string name="bill_label">Bill Total</string>
+    <string name="party_split_label">Split among</string>
+    <string name="tip_percent_label">Tip Percentage: %d</string>
+    <string name="calculate_button_label">Calculate</string>
+    <string name="invalid_split_val">Cannot split a bill among nobody</string>
+    <string name="invalid_bill_val">Need a bill to work with</string>
+    <string name="tryagain_message">Please try again</string>
+    <string name="result_plural">The total tip comes to: $%1$,.2f\nEverything altogether is: $%2$,.2f\nEach person tips: $%3$,.2f\nEach Person owes: $%4$,.2f</string>
+    <string name="result_singular">The total tip comes to: $%1$,.2f\nEverything altogether is: $%2$,.2f</string>
+</resources>
